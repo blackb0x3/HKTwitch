@@ -1,3 +1,5 @@
+Forked from [https://github.com/Sid-003/HKTwitch](https://github.com/Sid-003/HKTwitch)
+
 # HollowTwitch
 
 Go to https://twitchapps.com/tmi/ and get your oauth token in the form oauth:token.  
